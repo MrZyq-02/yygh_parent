@@ -7,8 +7,8 @@ public class hello {
 
         System.out.println("你好");
         System.out.println("你好3");
-        System.out.println("又改了zhangyiqian");
-
+        System.out.println("张义骞加油啊");
+        System.out.println("张义骞加油啊");
 
     }
 }
