@@ -12,6 +12,7 @@ public class hello {
         System.out.println("张义骞加油啊");
         System.out.println("张义骞加油啊");
         System.out.println("加油啊");
+        System.out.println("今天是3.24加油啊");
 
     }
 }
